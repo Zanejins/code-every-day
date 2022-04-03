@@ -29,4 +29,16 @@
 
   https://blog.nowcoder.net/n/407fff43a5134ceaa775cf9f109b1b1d
 
+- 哈夫曼树的应用
+
+  https://blog.nowcoder.net/n/771364186bf04dd3a01bdf83f11e24d8
+
+- 二叉树的遍历问题
+
+  https://blog.nowcoder.net/n/1c47d4f37f63413ea4dff86e84246178
+
+- 排序二叉树
+
+  https://blog.nowcoder.net/n/215065c5d01b426f9cd019ecafdbe592
+
 - 
