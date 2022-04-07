@@ -45,4 +45,20 @@
 
   https://blog.nowcoder.net/n/7b58dc1dc4fa4002b5b9cfc4115bf045
 
+- 进制转换
+
+  https://blog.nowcoder.net/n/7ddb212953c643b5b74beb84563f1036
+
+- 最大公约数
+
+  https://blog.nowcoder.net/n/8ab3366005df4c328cb2edfd10101a9e
+
+- 最小公倍数
+
+  https://blog.nowcoder.net/n/8290c9c264e6451fbd4b38c2746e7fea
+
+- 素数筛法
+
+  https://blog.nowcoder.net/n/e391ec3feabf4302a1adab2d2c9b20ab
+
 - 
