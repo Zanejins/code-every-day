@@ -61,4 +61,8 @@
 
   https://blog.nowcoder.net/n/e391ec3feabf4302a1adab2d2c9b20ab
 
+- 分解素因数
+
+  https://blog.nowcoder.net/n/16a283209b584e6db50181514619b7da
+
 - 
