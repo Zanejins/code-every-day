@@ -69,4 +69,12 @@
 
   https://blog.nowcoder.net/detail/0?zhuanlanId=842
 
+- 高精度整数
+
+  https://blog.nowcoder.net/n/564169a8762243a9bebb3e6ba7d55f8c
+
+- 并查集
+
+  https://blog.nowcoder.net/n/f3484666bbad4ebc8877f5e9a08aa715
+
 - 
